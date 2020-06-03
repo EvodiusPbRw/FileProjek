@@ -1,0 +1,2 @@
+Link buat Exe dan GUI memakai JDK versi 55
+https://drive.google.com/drive/u/1/folders/1VICytUKc4lV-uhaz674YkQgGdPOJvkP3
